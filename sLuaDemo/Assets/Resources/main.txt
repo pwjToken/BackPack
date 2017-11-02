@@ -1,0 +1,11 @@
+import "UnityEngine"
+
+  function main()
+      -- 创建Cube对象
+      local cube=UnityEngine.GameObject.CreatePrimitive(UnityEngine.PrimitiveType.Cube)
+      local pos =cube.transform.position
+      -- cube:GetComponent("MeshRenderer").material.color = new Color(255, 0, 0, 1)
+      pos.x =10;
+      cube.transform.position =pos
+
+  end

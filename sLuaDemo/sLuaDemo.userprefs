@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AppDelegate.cs">
+    <Files>
+      <File FileName="Assets\GoodUI.cs" Line="39" Column="59" />
+      <File FileName="Assets\Scripts\AppDelegate.cs" Line="44" Column="52" />
+      <File FileName="Assets\Plugins\Slua_Managed\LuaSvr.cs" Line="242" Column="46" />
+      <File FileName="Assets\Slua\example\Circle.cs" Line="29" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

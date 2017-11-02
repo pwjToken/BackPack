@@ -1,0 +1,14 @@
+import "UnityEngine"
+
+function main()
+
+end
+
+function OnPointEnter(temp)
+   print("asdf")
+   print(temp)
+end
+
+function update()
+
+end
